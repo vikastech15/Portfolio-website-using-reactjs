@@ -1,7 +1,7 @@
 # Vikas's Portfolio Website
 
 Welcome to my personal portfolio website! This is a showcase of my skills, and projects in the field of Software Development. <br/>
-Link- https://
+Link- https://vikas-gupta-portfolio.vercel.app/
 <br/> <br/>
 ## Website Preview
 ![image](https://github.com/vikastech15/Portfolio-website-using-reactjs/blob/main/src/images/portfolio.png)
@@ -17,7 +17,7 @@ Link- https://
 
 ## Features
 
-- **Hosting on Netlify:** The website is hosted on [`Netlify`](https://www.netlify.com) platform, ensuring a reliable and efficient hosting solution.
+- **Hosting on Vercel:** The website is hosted on [`Vercel`](https://www.vercel.com) platform, ensuring a reliable and efficient hosting solution.
 
 - **Single Page Portfolio:** The portfolio is designed as a single page, offering convenient navigation to various sections, including:
     - **Projects:** A comprehensive display of my key projects, demonstrating my technical skills and creativity.
